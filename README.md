@@ -27,7 +27,7 @@ The data of all the sensors of RAB1-SENSORFUSION is printed out to the KitProg3 
 
 ## Requirements
 
-- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) v2.4
+- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) v3.0
 
 Using the code example with a ModusToolbox IDE:
 
