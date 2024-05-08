@@ -27,7 +27,11 @@ The data of all the sensors of RAB1-SENSORFUSION is printed out to the KitProg3 
 
 ## Requirements
 
-- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) v3.0
+- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) **v3.x** [built with **v3.0**]
+
+## Supported toolchains (make variable 'TOOLCHAIN')
+
+- GNU Arm&reg; Embedded Compiler v11.3.1 (`GCC_ARM`) - Default value of `TOOLCHAIN`
 
 ## Using the code example
 
